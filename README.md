@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- :smile: I'm Anh (Jessie) Nguyen, I'm a junior student pursuing a B.S in Computer Science at University of Rochester :woman_technologist:
+- :smile: I'm Anh (Jessie) Nguyen, I'm a junior student majoring in Computer Science at University of Rochester :woman_technologist:
 
 - :star_struck: I am interested in Open Source, Software Development and Engineering. Summer 2020, I contributed to Facebook’s **React Native** project as part of the [MLH Fellowship](https://fellowship.mlh.io/). I worked on React Native Hermes Sampling Profiler, which is towards the goal to visualize the performance of JavaScript running on Hermes in a React Native app. You can find here the [Pull Request](https://github.com/react-native-community/cli/pull/1246) I made on the React Native CLI repository :partying_face:
 
