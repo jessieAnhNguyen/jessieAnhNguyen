@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- You can read more about me at my [personal website](https://www.jessieanhnguyen.com/)
 
 - :smile: I'm Anh (Jessie) Nguyen, I'm a junior majoring in Computer Science at the University of Rochester :woman_technologist:
 
@@ -23,5 +22,7 @@ Here are some ideas to get you started:
 - :sunglasses: Aside from this, I'm developing an OSS tool for **stacked Pull Requests** on GitHub with three other friends. The tool is [Stack-Attack](https://github.com/taneliang/stack-attack), which started from a small project that was the winner of the MLH Halfway hackathon. We decided to continue after the hackathon as a lot of people were interested in using the tool. Thus, my teammates and I have been working hard and expect to ship Stack-Attack soon :rocket:
 
 - :star: I’m looking for **Software engineering internship opportunities** :raising_hand:. I’m interested in solving problems and building software that impact people around me :raised_hands: 
+
+- :point_right: You can read more about me at my [personal website](https://www.jessieanhnguyen.com/)
 
 - :handshake: Feel free to connect with me on [Twitter](https://twitter.com/jessie_anh_ng) or [LinkedIn](https://www.linkedin.com/in/jessieanh/)
