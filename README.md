@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- You can read more about me at my [personal website](https://www.jessieanhnguyen.com/)
 
 - :smile: I'm Anh (Jessie) Nguyen, I'm a junior majoring in Computer Science at the University of Rochester :woman_technologist:
 
@@ -23,4 +24,4 @@ Here are some ideas to get you started:
 
 - :star: I’m looking for **Software engineering internship opportunities** :raising_hand:. I’m interested in solving problems and building software that impact people around me :raised_hands: 
 
-- :handshake: You can read more about me at my [personal website](https://www.jessieanhnguyen.com/). Feel free to connect with me on [Twitter](https://twitter.com/jessie_anh_ng) or [LinkedIn](https://www.linkedin.com/in/jessieanh/)
+- :handshake: Feel free to connect with me on [Twitter](https://twitter.com/jessie_anh_ng) or [LinkedIn](https://www.linkedin.com/in/jessieanh/)
